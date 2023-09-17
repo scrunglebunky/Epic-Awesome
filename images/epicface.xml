@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="epicface.png">
+<SubTexture name="bounce0000" x="1014" y="0" width="730" height="460" frameX="0" frameY="0" frameWidth="720" frameHeight="450" />
+<SubTexture name="bounce0001" x="0" y="0" width="506" height="460" frameX="0" frameY="0" frameWidth="720" frameHeight="450" />
+<SubTexture name="bounce0002" x="508" y="460" width="499" height="460" frameX="0" frameY="0" frameWidth="720" frameHeight="450" />
+<SubTexture name="bounce0003" x="1014" y="460" width="484" height="457" frameX="0" frameY="-3" frameWidth="720" frameHeight="450" />
+<SubTexture name="bounce0004" x="1014" y="0" width="730" height="460" frameX="0" frameY="0" frameWidth="720" frameHeight="450" />
+</TextureAtlas>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="doorpresser.png">
+<SubTexture name="idle0000" x="0" y="0" width="80" height="161" frameX="-82" frameY="-39" frameWidth="200" frameHeight="200" />
+<SubTexture name="idle0001" x="106" y="161" width="81" height="159" frameX="-82" frameY="-41" frameWidth="200" frameHeight="200" />
+<SubTexture name="idle0002" x="296" y="0" width="80" height="160" frameX="-83" frameY="-40" frameWidth="200" frameHeight="200" />
+<SubTexture name="press0000" x="80" y="0" width="121" height="161" frameX="-42" frameY="-39" frameWidth="200" frameHeight="200" />
+<SubTexture name="press0001" x="0" y="161" width="106" height="160" frameX="-58" frameY="-40" frameWidth="200" frameHeight="200" />
+<SubTexture name="press0002" x="201" y="0" width="95" height="161" frameX="-68" frameY="-39" frameWidth="200" frameHeight="200" />
+</TextureAtlas>

@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ds_gameover.png">
+<SubTexture name="gameover0000" x="0" y="0" width="485" height="497" frameX="-3" frameY="-2" frameWidth="489" frameHeight="500" />
+</TextureAtlas>
